@@ -4,7 +4,8 @@ Ce projet contient une page d'inscription et une page de connexion réalisées a
 Aperçu : 
 ![stade5](https://github.com/rene-belin/page_inscription_connexion/assets/145906989/a22f0d8c-c327-4aaa-8483-625f6c53edd1)
 
-![connexion1](https://github.com/rene-belin/page_inscription_connexion/assets/145906989/f4165842-0e42-4f0c-8b66-0e0aa1b301f5)
+![connexion2](https://github.com/rene-belin/page_inscription_connexion/assets/145906989/f73d657a-15ef-4bc0-8635-5e7acd9dad77)
+
 
 
 ## Page d'Inscription
