@@ -1,9 +1,11 @@
 ## Formulaire d'Inscription et de Connexion
 
 Ce projet contient une page d'inscription et une page de connexion réalisées avec HTML, Bootstrap, et Font Awesome. Le but est de fournir une interface simple et intuitive pour les nouveaux utilisateurs souhaitant s'inscrire et se connecter à un service.
-Aperçu
-obsidian://open?vault=Obsidian_DWWM&file=HTML-CSS%2FCr%C3%A9ation%20page%20inscription%20connexion%2F_illustrations%2Fstade5.PNG
-obsidian://open?vault=Obsidian_DWWM&file=HTML-CSS%2FCr%C3%A9ation%20page%20inscription%20connexion%2F_illustrations%2Fconnexion1.PNG
+Aperçu : 
+![stade5](https://github.com/rene-belin/page_inscription_connexion/assets/145906989/a22f0d8c-c327-4aaa-8483-625f6c53edd1)
+
+![connexion1](https://github.com/rene-belin/page_inscription_connexion/assets/145906989/f4165842-0e42-4f0c-8b66-0e0aa1b301f5)
+
 
 ## Page d'Inscription
 
